@@ -7,7 +7,7 @@
 
 :root {
   --primary: #00d9ff;
-  --black: #000000;
+  --black: #0f002b;
   --blackLighter: #9E9E9E;
   --grayLight: #F5F5F5;
   --grayMedium: #e5e5e5; 
@@ -25,3 +25,7 @@ body {
 a {
   color: inherit;
 } 
+
+.home-body {
+  background: #0f002b;
+}

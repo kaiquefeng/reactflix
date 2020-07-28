@@ -1,29 +1,29 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
-      "cor": "#6BD1FF",
+      "titulo": "Tecnologia",
+      "link": "https://www.youtube.com/watch?v=u2hTwalu3J8",
+      "cor": "#0ce8fc",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Frameworks, Js, Node.Js, ReactJs",
+        "url": "https://www.youtube.com/watch?v=u2hTwalu3J8"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "Tenha Mente Aberta, Bibliotecas UI, Redux e Rest ou GraphQL? Vale a pena Fazer Faculdade?",
+          "url": "https://www.youtube.com/watch?v=u2hTwalu3J8"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Agora Aquela I.A. Foi Longe Demais (e vai mudar o jeito que você trabalha)",
+          "url": "https://www.youtube.com/watch?v=pbVwH8o837A"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "Freelancer, Síndrome do Impostor, Site para Portfólio? Tempo e Foco | #PR 12",
+          "url": "https://www.youtube.com/watch?v=hka7ay9F1kk"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "Monorepo ReactJS, Node.js & React Native com Yarn Workspaces | Code/Drops #42",
+          "url": "https://www.youtube.com/watch?v=k5TkBcUTJus"
         },
         {
           "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
